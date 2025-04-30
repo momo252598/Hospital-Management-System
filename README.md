@@ -94,10 +94,6 @@ The system generates various reports using Jasper Reports:
 
 For complete details about the system architecture, database design, implementation details, and user manual, please refer to the [Hospital Project Documentation](docs/Hospital%20Project%20Documentaion.pdf).
 
-## Screenshots
-
-![Application Interface](images/Background.png)
-
 ## Getting Started
 
 1. Clone the repository
